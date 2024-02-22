@@ -9,7 +9,7 @@ I'm learning and evolving every day to make the dream of bringing the best appli
 
 ## Count
 
-![:name](https://count.getloli.com/get/@:alikia2x)
+![:name](https://count.getloli.com/get/@alikia2x)
 
 ## Technology Stack
 
