@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 **I'm alikia2x, a student developer focused on applications that we use in our daily lives.**
 
