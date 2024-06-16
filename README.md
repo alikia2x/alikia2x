@@ -41,5 +41,5 @@ I'm learning and evolving every day to make the dream of bringing the best appli
 | Website | [My Personal Website](https://alikia2x.com) |
 | E-Mail | [contact@alikia2x.com](mailto:contact@alikia2x.com) |
 | Twitter/X | [@alikia2x](https://x.com/alikia2x) |
-| Misskey | [@alikia_en@social.a2x.pub](https://social.a2x.pub/@alikia)en) |
+| Misskey | [@alikia_en@social.a2x.pub](https://social.a2x.pub/@alikia) |
 | OpenPGP | [3B3C33D2173589BF](https://keyserver.ubuntu.com/pks/lookup?search=3B3C33D2173589BF&fingerprint=on&op=index) |
