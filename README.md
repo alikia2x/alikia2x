@@ -4,10 +4,6 @@
 
 I'm learning and evolving every day to make the dream of bringing the best applications to everyone a reality. I'm currently learning **Svelte** and **Next.js**.
 
-## Count
-
-![:name](https://count.getloli.com/get/@alikia2x)
-
 ## Technology Stack
 
 ### By Level
@@ -43,3 +39,8 @@ I'm learning and evolving every day to make the dream of bringing the best appli
 | Twitter/X | [@alikia2x](https://x.com/alikia2x) |
 | Misskey | [@alikia_en@social.a2x.pub](https://social.a2x.pub/@alikia) |
 | OpenPGP | [3B3C33D2173589BF](https://keyserver.ubuntu.com/pks/lookup?search=3B3C33D2173589BF&fingerprint=on&op=index) |
+
+
+## Count
+
+![:name](https://count.getloli.com/get/@alikia2x)
