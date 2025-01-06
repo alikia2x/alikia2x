@@ -25,10 +25,9 @@ I'm learning and evolving every day to make the dream of bringing the best appli
 | Deploy | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
  
 
-## GitHub Stats
+## Stats
 
-| ![Alikia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikia2x&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=alikia2x&theme=material-palenight)](https://git.io/streak-stats) |
-| --- | --- |
+![Alikia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikia2x&show_icons=true&bg_color=151515&hide_border=true&title_color=FFFFFF&text_color=CDCDCD)
 
 ## Reach Me
 
@@ -37,7 +36,8 @@ I'm learning and evolving every day to make the dream of bringing the best appli
 | Website | [My Personal Website](https://alikia2x.com) |
 | E-Mail | [contact@alikia2x.com](mailto:contact@alikia2x.com) |
 | Twitter/X | [@alikia2x](https://x.com/alikia2x) |
-| Misskey | [@alikia_en@social.a2x.pub](https://social.a2x.pub/@alikia) |
+| Misskey | [@alikia@social.a2x.pub](https://social.a2x.pub/@alikia) |
+| Bluesky | [@alikia.bsky.social](https://bsky.app/profile/alikia.bsky.social) |
 | OpenPGP | [3B3C33D2173589BF](https://keyserver.ubuntu.com/pks/lookup?search=3B3C33D2173589BF&fingerprint=on&op=index) |
 
 
