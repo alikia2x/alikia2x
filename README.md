@@ -2,7 +2,7 @@
 
 **I'm alikia2x, a design engineer who aims to create open-source software that blends aesthetics and technology.**
 
-I'm currently maintaining the [Project CVSA](https://github.com/project-cvsa), an archive program for Chinese singing voice synthesis enthusiasts community.
+I currently maintain the [Project CVSA](https://github.com/project-cvsa), an archive program for Chinese virtual singer enthusiasts.
 
 ## Technology Stack
 
