@@ -1,8 +1,8 @@
 # Hi there.
 
-**I'm alikia2x, a design engineer who aims to create open-source software that blends aesthetics and technology.**
+**I'm alikia2x, a design engineer.**
 
-I currently maintain the [Project CVSA](https://github.com/project-cvsa), an archive program for Chinese virtual singer enthusiasts.
+I'm the founder of **[WavWonder](https://github.com/wavwonder)**, an initiative building next-generation vocal synthesis tools and acoustic technologies, and the lead architect behind **Project CVSA**.
 
 ## Technology Stack
 
@@ -16,11 +16,9 @@ I specialize in the **TypeScript ecosystem**, building performant, type-safe app
 
 ## Reach Me
 
-| Method | Info |
+| Platform | Link |
 | ------ | ---- |
-| Website | [My Personal Website](https://alikia2x.com) |
+| Website | [alikia2x.com](https://alikia2x.com) |
 | E-Mail | [contact@alikia2x.com](mailto:contact@alikia2x.com) |
 | Twitter/X | [@alikia2x](https://x.com/alikia2x) |
-| Misskey | [@alikia@myce.li](https://myce.li/@alikia) |
-| Bluesky | [@alikia.bsky.social](https://bsky.app/profile/alikia.bsky.social) |
-| OpenPGP | [3B3C33D2173589BF](https://keyserver.ubuntu.com/pks/lookup?search=3B3C33D2173589BF&fingerprint=on&op=index) |
+| Fediverse | [@alikia@myce.li](https://myce.li/@alikia) |
